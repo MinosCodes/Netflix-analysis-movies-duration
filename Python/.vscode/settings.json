@@ -1,0 +1,8 @@
+{
+    "python.terminal.focusAfterLaunch": true,
+    "code-runner.focusAfterRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "terminal.integrated.focusAfterRun": "terminal",
+    "code-runner.runInTerminal": true,
+    "python.terminal.activateEnvironment": true
+}
