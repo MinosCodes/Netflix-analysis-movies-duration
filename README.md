@@ -42,7 +42,7 @@ How to run
 2. From that folder, run (PowerShell):
 ```
 python .\netflix.py
-```
+```é
 
 Expected behavior
 - The script will open a matplotlib window showing a histogram of movie durations for the 1991–1998 range. The plot is styled and includes a dashed vertical line at 100 minutes.
